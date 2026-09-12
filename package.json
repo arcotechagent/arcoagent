@@ -1,0 +1,12 @@
+{
+  "name": "arco-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "bake-art": "node scripts/bake-art.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.35.4"
+  }
+}
